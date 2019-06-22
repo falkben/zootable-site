@@ -16,6 +16,7 @@ features:
 - title: Easy to use
   details: Designed for mobile and desktop. Counts are backed up. Works with existing record systems.
 
+navbar: false
 footer: aGPL Licensed | Copyright © 2019-present Ben Falk
 
 meta:
