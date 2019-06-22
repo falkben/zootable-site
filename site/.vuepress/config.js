@@ -1,4 +1,4 @@
 module.exports = {
     title: 'Zootable',
-    description: 'The app to tally zoo animals',
+    description: 'Tally and monitor zoo animals'
 }
