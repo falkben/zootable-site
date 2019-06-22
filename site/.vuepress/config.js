@@ -1,4 +1,9 @@
 module.exports = {
     title: 'Zootable',
-    description: 'Tally and monitor zoo animals'
+    description: 'Tally and monitor zoo animals',
+    markdown: {
+        anchor: {
+            permalink: false
+        },
+    }
 }

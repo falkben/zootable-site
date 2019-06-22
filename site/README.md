@@ -6,7 +6,7 @@ search: false
 
 home: true
 heroImage: /hero.png
-actionText: Email for more info
+actionText: Contact for more info
 actionLink: mailto:falk.ben@gmail.com?subject=Zootable
 features:
 - title: Daily counts for all your animals
@@ -27,12 +27,9 @@ meta:
 ---
 
 <div class="hero">
-<h3>
-Zootable is for zookeepers, aquarists, and anyone who needs to monitor animals on a daily basis.
-</h3>
-<a href="mailto:falk.ben@gmail.com?subject=Zootable">
-<h4>
-Contact for more information
-</h4>
-</a>
+
+### Zootable is for zookeepers, aquarists, and anyone who needs to monitor animals on a daily basis
+
+### [Contact for more information](mailto:falk.ben@gmail.com?subject=Zootable)
+
 </div>
