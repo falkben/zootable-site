@@ -6,6 +6,7 @@ search: false
 
 home: true
 heroImage: /hero.png
+tagline: Tally and monitor zoo animals
 actionText: Contact for more info
 actionLink: mailto:falk.ben@gmail.com?subject=Zootable
 features:
