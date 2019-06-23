@@ -10,8 +10,8 @@ tagline: Tally and monitor zoo animals
 actionText: Contact for more info
 actionLink: mailto:hello@zootable.com?subject=Zootable
 features:
-- title: Daily counts for all your animals
-  details: Never guess which animals have been observed.
+- title: Daily counts
+  details: Always know the last time each of your animals has been observed.
 - title: Notifications
   details: Be notified when animals have not been seen, or when animals are marked missing.
 - title: Easy to use
