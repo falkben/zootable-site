@@ -8,7 +8,7 @@ home: true
 heroImage: /hero.png
 tagline: Tally and monitor zoo animals
 actionText: Contact for more info
-actionLink: mailto:falk.ben@gmail.com?subject=Zootable
+actionLink: mailto:hello@zootable.com?subject=Zootable
 features:
 - title: Daily counts for all your animals
   details: Never guess which animals have been observed.
@@ -31,6 +31,6 @@ meta:
 
 ### Zootable is for zookeepers, aquarists, and anyone who needs to monitor animals on a daily basis
 
-### [Contact for more information](mailto:falk.ben@gmail.com?subject=Zootable)
+### [Contact for more information](mailto:hello@zootable.com?subject=Zootable)
 
 </div>
