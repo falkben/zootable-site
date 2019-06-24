@@ -11,7 +11,7 @@ actionText: Contact for more info
 actionLink: mailto:hello@zootable.com?subject=Zootable
 features:
 - title: Daily counts
-  details: Always know the last time each of your animals has been observed.
+  details: Always know the last time your animals have been observed.
 - title: Notifications
   details: Be notified when animals have not been seen, or when animals are marked missing.
 - title: Easy to use
