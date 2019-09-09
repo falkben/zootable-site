@@ -18,7 +18,6 @@ features:
   details: Designed for mobile and desktop. Counts are backed up. Works with existing record systems.
 
 navbar: false
-footer: aGPL Licensed | Copyright © 2019-present Ben Falk
 
 meta:
   - name: description
@@ -33,4 +32,8 @@ meta:
 
 ### [Contact for more information](mailto:hello@zootable.com?subject=Zootable)
 
+</div>
+
+<div class="footer">
+aGPL Licensed | Copyright © 2019-present Ben Falk | <a href="https://github.com/falkben/zootable"><img src="/GitHub-Mark-32px.png" alt="GitHub" height="18px"></a>
 </div>
