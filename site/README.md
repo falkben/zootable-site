@@ -14,7 +14,7 @@ features:
     details: Always know the last time your animals have been observed.
   - title: Notifications
     details: Be notified when animals have not been seen, or when animals are marked missing.
-  - title: Fulfill welfare requirements
+  - title: Welfare
     details: Exportable records (Excel) for documenting health and wellness
   - title: Easy to use
     details: Designed for mobile and desktop. Works with existing record systems.
