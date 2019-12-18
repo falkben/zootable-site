@@ -1,0 +1,19 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+a {
+  @apply text-green-600;
+}
+
+a:hover {
+  @apply bg-green-100;
+}
+
+a:active {
+  @apply bg-green-100;
+}
+
+a:focus {
+  @apply outline-none shadow-outline;
+}
