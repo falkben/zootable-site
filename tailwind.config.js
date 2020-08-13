@@ -5,6 +5,7 @@
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
 module.exports = {
+  purge: ['./pages/**/*.html', './pages/**/*.vue', './pages/**/*.jsx'],
   theme: {
     maxWidth: {
       '1/4': '25%',
