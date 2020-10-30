@@ -5,6 +5,9 @@
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
 module.exports = {
+  future: {
+    purgeLayersByDefault: true
+  },
   purge: ['./pages/**/*.html', './pages/**/*.vue', './pages/**/*.jsx'],
   theme: {
     maxWidth: {
